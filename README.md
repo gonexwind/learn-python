@@ -1,12 +1,11 @@
-# learn-python
-
-learn python with gonexwind
+# Belajar Python Bareng
 
 ## Getting Started
+![PLAYLIST](src/playlist.png)
 
 Repo ini dibuat untuk belajar bareng dari dasar.
 
-Teman-teman bisa mengikuti belajar bareng di:
+## Link YouTube:
 - [Youtube Channel Saya](https://www.youtube.com/playlist?list=PLbpNkNqWUMH_be1XsXiCa3nlAa65LeUnM)
 
-Yosh!!! Tenkyuuu, 
+### Sankyu! 

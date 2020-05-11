@@ -1,7 +1,7 @@
 # Belajar Python Bareng
 
 ## Getting Started
-![PLAYLIST](src/playlist.png)
+![PLAYLIST](ss/playlist.png)
 
 Repo ini dibuat untuk belajar bareng dari dasar.
 
